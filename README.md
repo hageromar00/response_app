@@ -1,17 +1,13 @@
-# response_application
+## 📱 Responsive Flutter App
 
-A new Flutter project.
+This project is a training application I built while following a Flutter course.  
+I developed it step by step to better understand how to create responsive UIs in Flutter that adapt to different screen sizes like mobile, tablet, and web.
 
-## Getting Started
+### 🔧 Technologies Used:
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# response_app" 
+### 🧠 What I Learned:
+- Building responsive layouts using `LayoutBuilder`, `MediaQuery`, and custom breakpoints.
+- Managing widgets across different screen sizes.
+- Better understanding of Flutter UI structure and best practices.
